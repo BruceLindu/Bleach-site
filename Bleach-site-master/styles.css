@@ -1,0 +1,47 @@
+.colorAzul{
+    height: 50px;
+    width: 1000px;
+    background-color:
+   #bbbbaa;
+    border:1px solid black;
+    border-width: 2px;
+    color: aquamarine;
+
+
+}
+.right{
+    margin-top: 300px;
+    margin-left: 1000px;
+}
+.colororange{
+    color: orange;
+    
+}
+.colorpurple{
+    color: purple;
+}
+.colorgreen{
+    color: green;
+}
+.coloryellow{
+    color: rgb(112, 112, 0);
+}
+.img1{
+    width: 350px; 
+    height: 200px; 
+    margin: 0px;
+    margin-top: 300px;
+}
+.img2{
+    
+    width: 350px; 
+    height: 200px; 
+    margin-top: 300px;
+    margin-left: 500px;
+}
+.img3{
+    width: 350px; 
+    height: 200px; 
+    margin-top: 300px;
+    margin-left: 1000px;
+}
